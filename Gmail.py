@@ -7,7 +7,7 @@ message = EmailMessage()
 
 EmailContent = 'Email test from Python'
 SenderDetails = 'soumayadipsaha2002@gmail.com'
-ReceiverDetails = 'sinuroy696@gmail.com'
+ReceiverDetails = 'soumyadipsaha8327@gmail.com'
 #ignorecrowdweb@gmail.com
 
 message['Subject'] = EmailContent
